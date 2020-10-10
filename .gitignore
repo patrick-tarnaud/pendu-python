@@ -1,0 +1,6 @@
+.idea/
+venv/
+model/__pycache__/
+*.csv
+*.json
+__pycache__/
